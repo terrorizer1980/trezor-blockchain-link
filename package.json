@@ -77,7 +77,7 @@
     "es6-promise": "^4.2.8",
     "events": "^3.0.0",
     "ripple-lib": "^1.2.4",
-    "tiny-worker": "^2.2.0",
+    "tiny-worker": "^2.3.0",
     "ws": "^7.0.1"
   }
 }
