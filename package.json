@@ -73,7 +73,7 @@
     "worker-loader": "^2.0.0"
   },
   "dependencies": {
-    "bignumber.js": "^8.0.1",
+    "bignumber.js": "^8.1.1",
     "es6-promise": "^4.2.8",
     "events": "^3.0.0",
     "ripple-lib": "^1.2.4",
